@@ -52,6 +52,48 @@
           ], 
           "name": "Real Estate",
           "type": "folder"
+        }, 
+        {
+          "children":[
+            {
+              "name": "SAILIS (South Australia)",
+              "type": "url",
+              "url": "https://sailis.lssa.com.au/products/titleSearch/propertySearch?form"
+            },
+            {
+              "name": "NSW LRS (New South Wales)",
+              "type": "url",
+              "url": "https://online.nswlrs.com.au/wps/portal/six/find-records/"
+            },
+            {
+              "name": "Titles Queensland (Queensland)",
+              "type": "url",
+              "url": "https://search.titlesqld.com.au/product-search"
+            },
+            {
+              "name": "LANDATA (Victoria)",
+              "type": "url",
+              "url": "https://sailis.lssa.com.au/products/titleSearch/propertySearch?form"
+            },
+            {
+              "name": "LIST (Tasmania)",
+              "type": "url",
+              "url": "https://www.thelist.tas.gov.au/app/content/home"
+            },
+            {
+              "name": "Landgate (Western Australia)",
+              "type": "url",
+              "url": "https://land-enquiry.app.landgate.wa.gov.au/SVProperty/search/address/Titles"
+            },
+            {
+              "name": "NTLIS (Northern Territory)",
+              "type": "url",
+              "url": "https://www.ntlis.nt.gov.au/title-search/"
+            }
+            
+          ], 
+          "name": "Land Titles",
+          "type": "folder"
         }
       ], 
       "name": "Address",
