@@ -16,7 +16,44 @@
       "type": "folder"
     },
     {
-      "children":[], 
+      "children":[
+        {
+          "children":[
+            {
+              "name": "Realestate.com.au",
+              "type": "url",
+              "url": "https://www.realestate.com.au/"
+            },
+            {
+              "name": "Domain",
+              "type": "url",
+              "url": "https://www.domain.com.au/"
+            }, 
+            {
+              "name": "All Homes",
+              "type": "url",
+              "url": "https://www.allhomes.com.au/"
+            },
+            {
+              "name": "Property Value",
+              "type": "url",
+              "url": "https://www.propertyvalue.com.au/"
+            },
+            {
+              "name": "On The House",
+              "type": "url",
+              "url": "https://www.onthehouse.com.au/"
+            },
+            {
+              "name": "OldListings",
+              "type": "url",
+              "url": "https://www.oldlistings.com.au/"
+            }
+          ], 
+          "name": "Real Estate",
+          "type": "folder"
+        }
+      ], 
       "name": "Address",
       "type": "folder"
     },
